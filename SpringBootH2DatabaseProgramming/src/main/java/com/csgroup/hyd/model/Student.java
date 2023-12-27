@@ -17,6 +17,7 @@ import lombok.RequiredArgsConstructor;
 @NoArgsConstructor
 @RequiredArgsConstructor
 @AllArgsConstructor
+
 public class Student {
 
 	@Id
